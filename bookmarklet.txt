@@ -1,0 +1,1 @@
+javascript:(function(){var url=location.href;url=url.replace('https://github.com/','http://gitray.com/');window.open(url,'_blank');})()
